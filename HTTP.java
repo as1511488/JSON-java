@@ -32,6 +32,8 @@ import java.util.Iterator;
  * @version 2010-12-24
  */
 public class HTTP {
+	
+	//O buzz Ž o maior
 
     /** Carriage return/line feed. */
     public static final String CRLF = "\r\n";
@@ -93,6 +95,9 @@ public class HTTP {
         }
 
 // Fields
+        
+        
+        
 
         while (x.more()) {
             String name = x.nextTo(':');
